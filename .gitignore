@@ -1,0 +1,12 @@
+# dữ liệu kinh doanh — không đưa lên git
+data/
+
+# Excel lock files
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
